@@ -1,0 +1,12 @@
+.logo{
+    margin-top: 24px !important;
+} 
+a.nav-link.menu {
+    color: #3c4357;
+    font-weight: 700;
+}
+.boxdesign{
+    box-shadow: 10px 36px 78px 4px rgba(0,0,0,0.75);
+-webkit-box-shadow: 10px 36px 78px 4px rgba(0,0,0,0.75);
+-moz-box-shadow: 10px 36px 78px 4px rgba(0,0,0,0.75);
+}
